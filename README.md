@@ -56,8 +56,8 @@ You'll need:
 <br />
 3. Click copy board.  
 <img src="./images/7.png" width="300" />  
-<br />
-4. Give it a title (JS4J your-name-here) **make sure 'Keep Cards' checkbox is checked.**  
+4. Give it a title (JS4J-your-name) **Make sure 'keep cards' checkbox is checked** 
+<br>  
 5. From here, you are free to move cards you are currently working on to the 'Doing' column.  
 <img src="./images/8.png" width="300">
 <br />
