@@ -1,4 +1,4 @@
-<img src="https://uploads.codesandbox.io/uploads/user/5fd05b74-c5ae-4494-bdc6-c56d5b14d143/2CF3-wj4j.png" width="300">
+<img src="./images/wj4j.png" width="300">
 
 ## React Challenge
 
@@ -42,14 +42,19 @@ You'll need:
 
 1. Open up this repository in [Code Sandbox](https://codesandbox.io/s/github/ullibodnar/Not-a-Test).
 2. Sign in with your GitHub account (top right corner), if it asks you for permission, hit accept.
+<img src="./images/1.png" width="300">
 3. Fork the sandbox, top left button. Making clicking noises is encouraged ;)
+<img src="./images/2.png" width="300">
 
 ### Trello Setup
 
 1. Open our [trello board](https://trello.com/b/LQfNenXm).
 2. Click show menu (top right corner), and click copy board. 
+<img src="./images/5.png" width="300">
+<img src="./images/7.png" width="300">
 3. Give it a title (JS4J your-name-here) **make sure 'Keep Cards' checkbox is checked**. 
 4. From here, you are free to move cards you are currently working on to the 'Doing' column.
+<img src="./images/8.png" width="300">
 
 ### Coding!!!
 
@@ -63,11 +68,13 @@ You'll need:
 1. After a couple of hours work, give or take, find a point where you can stop&mdash;don't worry if you haven't finished the feature!&mdash;and use the save button to **save your work**.
 2. _Did we mention documenting your reasoning for your decisions?_ Make sure you've documented it well.
 3. In your Sandbox Editor, click the GitHub icon on the left hand side (about half way down).
+<img src="./images/10.png" width="300">
 4. Sign into GitHub with the new sign in button.
 5. In the subject field, write your name. In the description field, write a quick overview of what you have completed. Please include a link to your Trello board. 
 6. Smash that 'Open PR' button!
 7. Code Sandbox should pop up a dialogue saying that it is creating the pull request, when you see movement in the background, click outside of the modal. 
 8. In the top left corner you should see a link to your new GitHub fork. Click it. This should open in a new tab. 
+<img src="./images/11.png" width="300">
 9. Hit the green 'Compare & Pull Request' button inside of the yellow dialogue box. The subject and description fields should already contain what you wrote earlier. 
 10. Hit the green 'Create Pull Request' button!
 11. Enjoy a tall glass of accomplishment, you are all done :)
