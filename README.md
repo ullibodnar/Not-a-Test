@@ -24,7 +24,7 @@ _Please read these instructions carefully before you start and come back to read
   4. Do the best work you can. **It's not just about the code.** Show us all your moves! We'll be looking at the big picture: What's your thinking pattern? What attention do you give to others? How well would you work with others? And more.
   5. **Document! Document! Document!** Use comments in the code to explain your thinking: What made you choose this way? What kinds of things are you looking out for? Did you consider any other ways? If so, what made you reject them? Help us to get to know the real you and your thinking. 
 
-**Note:** Using resources is wise; copying and pasting large amounts of code or having someone else do the work for you isn't: we want to get to know _your_ coding ability, not your friends.
+**Note:** Using resources is wise; copying and pasting large amounts of code or having someone else do the work for you isn't: we want to get to know _your_ coding ability, not your friends'.
 
 ## The challenge
 
@@ -71,9 +71,9 @@ You'll need:
 
 ### Final Steps
 
-1. After a couple of hours work, give or take, find a point where you can stop&mdash;don't worry if you haven't finished the feature!&mdash;and use the save button to **save your work**.
+1. After a couple hours of work, give or take, find a point where you can stop&mdash;don't worry if you haven't finished the feature!&mdash;and use the save button to **save your work**.
 2. _Did we mention documenting your reasoning for your decisions?_ Make sure you've documented it well.
-3. In your Sandbox Editor, click the GitHub icon on the left hand side (about half way down).
+3. In your Sandbox Editor, click the GitHub icon on the left-hand side (about half way down).
 <img src="./images/10.png" width="300"/>
 <br />
 4. Sign into GitHub with the new sign in button.  
@@ -82,9 +82,9 @@ You'll need:
 <br />
 6. Smash that 'Open PR' button!  
 <br />
-7. Code Sandbox should pop up a dialogue saying that it is creating the pull request, when you see movement in the background, click outside of the modal.   
+7. Code Sandbox should pop up a dialogue saying that it is creating the pull request. Once you see movement in the background, click outside of the modal.   
 <br />
-8. In the top left corner you should see a link to your new GitHub fork. Click it. This should open in a new tab.   
+8. In the top left corner, you should see a link to your new GitHub fork. Click it. This should open in a new tab.   
 <img src="./images/11.png" width="300">
 <br />
 9. Hit the green 'Compare & Pull Request' button inside of the yellow dialogue box. The subject and description fields should already contain what you wrote earlier.   
@@ -93,7 +93,7 @@ You'll need:
 <br />
 11. Enjoy a tall glass of accomplishment, you are all done :) . 
 
-Thank you for your time in completing this excercise!
+Thank you for your time in completing this exercise!
 
 ## Resources
 
