@@ -74,17 +74,23 @@ You'll need:
 1. After a couple of hours work, give or take, find a point where you can stop&mdash;don't worry if you haven't finished the feature!&mdash;and use the save button to **save your work**.
 2. _Did we mention documenting your reasoning for your decisions?_ Make sure you've documented it well.
 3. In your Sandbox Editor, click the GitHub icon on the left hand side (about half way down).
-<img src="./images/10.png" width="300">
+<img src="./images/10.png" width="300"/>
 <br />
 4. Sign into GitHub with the new sign in button.  
-5. In the subject field, write your name. In the description field, write a quick overview of what you have completed. Please include a link to your Trello board.   
+<br />
+5. In the subject field, write your name. In the description field, write a quick overview of what you have completed. Please include a link to your Trello board.  
+<br />
 6. Smash that 'Open PR' button!  
+<br />
 7. Code Sandbox should pop up a dialogue saying that it is creating the pull request, when you see movement in the background, click outside of the modal.   
+<br />
 8. In the top left corner you should see a link to your new GitHub fork. Click it. This should open in a new tab.   
 <img src="./images/11.png" width="300">
 <br />
 9. Hit the green 'Compare & Pull Request' button inside of the yellow dialogue box. The subject and description fields should already contain what you wrote earlier.   
+<br />
 10. Hit the green 'Create Pull Request' button!  
+<br />
 11. Enjoy a tall glass of accomplishment, you are all done :) . 
 
 Thank you for your time in completing this excercise!
