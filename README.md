@@ -76,16 +76,16 @@ You'll need:
 3. In your Sandbox Editor, click the GitHub icon on the left hand side (about half way down).
 <img src="./images/10.png" width="300">
 <br />
-4. Sign into GitHub with the new sign in button.
-5. In the subject field, write your name. In the description field, write a quick overview of what you have completed. Please include a link to your Trello board. 
-6. Smash that 'Open PR' button!
-7. Code Sandbox should pop up a dialogue saying that it is creating the pull request, when you see movement in the background, click outside of the modal. 
-8. In the top left corner you should see a link to your new GitHub fork. Click it. This should open in a new tab. 
+4. Sign into GitHub with the new sign in button.  
+5. In the subject field, write your name. In the description field, write a quick overview of what you have completed. Please include a link to your Trello board.   
+6. Smash that 'Open PR' button!  
+7. Code Sandbox should pop up a dialogue saying that it is creating the pull request, when you see movement in the background, click outside of the modal.   
+8. In the top left corner you should see a link to your new GitHub fork. Click it. This should open in a new tab.   
 <img src="./images/11.png" width="300">
 <br />
-9. Hit the green 'Compare & Pull Request' button inside of the yellow dialogue box. The subject and description fields should already contain what you wrote earlier. 
-10. Hit the green 'Create Pull Request' button!
-11. Enjoy a tall glass of accomplishment, you are all done :)
+9. Hit the green 'Compare & Pull Request' button inside of the yellow dialogue box. The subject and description fields should already contain what you wrote earlier.   
+10. Hit the green 'Create Pull Request' button!  
+11. Enjoy a tall glass of accomplishment, you are all done :) . 
 
 Thank you for your time in completing this excercise!
 
