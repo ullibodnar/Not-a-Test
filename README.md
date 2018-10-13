@@ -1,4 +1,4 @@
-<img src="./images/wj4j.png" width="300">
+<img src="./images/wj4j.png" width="300" />
 
 ## React Challenge
 
@@ -7,10 +7,10 @@ Welcome to the JS4J coding challenge!
 We appreciate your time in completing this exercise. It is an important part of our process and a great way for you to demonstrate your development skills to us. It also means we can create a more meaningful learning track for you upon your completion. 
 
 How does the coding challenge work?
-  *	You'll need to set aside a couple of hours.
-  *	Carefully read the instructions below. They are quite detailed so you might need to read them more than once or refer to them as you go.
-  *	Complete the exercise and show us your programming skills and thought processes.
-  *	When we see your pull request we'll acknowledge it. Then we'll review it.
+  *	You'll need to set aside a couple of hours.  
+  *	Carefully read the instructions below. They are quite detailed so you might need to read them more than once or refer to them as you go.  
+  *	Complete the exercise and show us your programming skills and thought processes.  
+  *	When we see your pull request we'll acknowledge it. Then we'll review it.  
 
 Have fun! We look forward to seeing your work.
 
@@ -42,19 +42,25 @@ You'll need:
 
 1. Open up this repository in [Code Sandbox](https://codesandbox.io/s/github/ullibodnar/Not-a-Test).
 2. Sign in with your GitHub account (top right corner), if it asks you for permission, hit accept.
-<img src="./images/1.png" width="300">
+<img src="./images/1.png" width="300" />
+<br />
 3. Fork the sandbox, top left button. Making clicking noises is encouraged ;)
-<img src="./images/2.png" width="300">
+<img src="./images/2.png" width="300" />
+<br />
 
 ### Trello Setup
 
-1. Open our [trello board](https://trello.com/b/LQfNenXm).
-2. Click show menu (top right corner), and click copy board. 
-<img src="./images/5.png" width="300">
-<img src="./images/7.png" width="300">
-3. Give it a title (JS4J your-name-here) **make sure 'Keep Cards' checkbox is checked**. 
-4. From here, you are free to move cards you are currently working on to the 'Doing' column.
+1. Open our [trello board](https://trello.com/b/LQfNenXm).  
+2. Click show menu (top right corner).  
+<img src="./images/5.png" width="300" />  
+<br />
+3. Click copy board.  
+<img src="./images/7.png" width="300" />  
+<br />
+4. Give it a title (JS4J your-name-here) **make sure 'Keep Cards' checkbox is checked.**  
+5. From here, you are free to move cards you are currently working on to the 'Doing' column.  
 <img src="./images/8.png" width="300">
+<br />
 
 ### Coding!!!
 
@@ -69,12 +75,14 @@ You'll need:
 2. _Did we mention documenting your reasoning for your decisions?_ Make sure you've documented it well.
 3. In your Sandbox Editor, click the GitHub icon on the left hand side (about half way down).
 <img src="./images/10.png" width="300">
+<br />
 4. Sign into GitHub with the new sign in button.
 5. In the subject field, write your name. In the description field, write a quick overview of what you have completed. Please include a link to your Trello board. 
 6. Smash that 'Open PR' button!
 7. Code Sandbox should pop up a dialogue saying that it is creating the pull request, when you see movement in the background, click outside of the modal. 
 8. In the top left corner you should see a link to your new GitHub fork. Click it. This should open in a new tab. 
 <img src="./images/11.png" width="300">
+<br />
 9. Hit the green 'Compare & Pull Request' button inside of the yellow dialogue box. The subject and description fields should already contain what you wrote earlier. 
 10. Hit the green 'Create Pull Request' button!
 11. Enjoy a tall glass of accomplishment, you are all done :)
