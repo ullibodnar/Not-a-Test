@@ -91,7 +91,7 @@ Thank you for your time in completing this excercise!
 
 ## Resources
 
-Here are some resources you may find helpful:
+Here are some resources you may find helpful:  
 [Ramda Docs](https://ramdajs.com/docs/)  
 [Ramda REPL](https://ramdajs.com/repl/?v=0.25.0) 
 [styled-components library](https://www.styled-components.com/)  
