@@ -18,12 +18,11 @@ Have fun! We look forward to seeing your work.
 
 _Please read these instructions carefully before you start and come back to read them again as you progress through the challenge._
 
-  1. **You are welcome to use any resources you have available.** You'll have them available on the job, so why not here? Using resources well is a good thing, so tell us about the resources you have used by adding  a comment in your code .
-  2. We want to see how you **work through the trello cards**.
-  3. Choose a time when **you can work for two hours uninterrupted and without distractions**. We'll check the timestamps on your commits to get a feel for how long things took. If you get interrupted, that will throw your times off, so please try to work steadily for two hours.
-  4. You can put in more time if you want to, but **two hours is the recommended time**. You don't have to finish the features - in fact, you are unlikely to. Get as far as you can in the time you have available.
-  5. Do the best work you can. **It's not just about the code.** Show us all your moves! We'll be looking at the big picture: What's your thinking pattern? What attention do you give to others? How well would you work with others? And more.
-  6. **Document! Document! Document!** Use comments in the code to explain your thinking: What made you choose this way? What kinds of things are you looking out for? Did you consider any other ways? If so, what made you reject them? Help us to get to know the real you and your thinking. 
+  1. **You are welcome to use any resources you have available.** You'll have them available on the job, so why not here? Using resources well is a good thing, so tell us about the resources you have used by adding a comment in your code.
+  2. Choose a time when **you can work for two hours uninterrupted and without distractions**. We'll check the timestamps on your commits to get a feel for how long things took. If you get interrupted, that will throw your times off, so please try to work steadily for two hours.
+  3. You can put in more time if you want to, but **two hours is the recommended time**. You don't have to finish the features - in fact, you are unlikely to. Get as far as you can in the time you have available.
+  4. Do the best work you can. **It's not just about the code.** Show us all your moves! We'll be looking at the big picture: What's your thinking pattern? What attention do you give to others? How well would you work with others? And more.
+  5. **Document! Document! Document!** Use comments in the code to explain your thinking: What made you choose this way? What kinds of things are you looking out for? Did you consider any other ways? If so, what made you reject them? Help us to get to know the real you and your thinking. 
 
 **Note:** Using resources is wise; copying and pasting large amounts of code or having someone else do the work for you isn't: we want to get to know _your_ coding ability, not your friends.
 
@@ -63,7 +62,17 @@ You'll need:
 
 1. After a couple of hours work, give or take, find a point where you can stop&mdash;don't worry if you haven't finished the feature!&mdash;and use the save button to **save your work**.
 2. _Did we mention documenting your reasoning for your decisions?_ Make sure you've documented it well.
-10. When you're sure you're ready, **zip up your files and put them somewhere where we can find them**. Dropbox? Your own GitHub account? Include a note telling us what you did and why. Make sure to include anything you want us to consider when reviewing your code.
+3. In your Sandbox Editor, click the GitHub icon on the left hand side (about half way down).
+4. Sign into GitHub with the new sign in button.
+5. In the subject field, write your name. In the description field, write a quick overview of what you have completed. Please include a link to your Trello board. 
+6. Smash that 'Open PR' button!
+7. Code Sandbox should pop up a dialogue saying that it is creating the pull request, when you see movement in the background, click outside of the modal. 
+8. In the top left corner you should see a link to your new GitHub fork. Click it. This should open in a new tab. 
+9. Hit the green 'Compare & Pull Request' button inside of the yellow dialogue box. The subject and description fields should already contain what you wrote earlier. 
+10. Hit the green 'Create Pull Request' button!
+11. Enjoy a tall glass of accomplishment, you are all done :)
+
+Thank you for your time in completing this excercise!
 
 ## Resources
 
@@ -74,6 +83,3 @@ Here are some resources you may find helpful:
 [Jest testing library](https://jestjs.io/en/)
 
 Feel free to add any other libraries you might need, but be sure to tell us what you added and why.
-
-Enjoy your next two hours, we're looking forward to receiving your pull request.
-
